@@ -1,0 +1,9 @@
+.container-wlticker-shortcode{}
+.container-wlticker-shortcode .innerWrap{width: 100%}
+.container-wlticker-shortcode .innerWrap .list{
+	width: 100%;
+	padding: 10px;
+}
+.container-wlticker-shortcode .innerWrap .list a label{
+	font-weight: 800
+}

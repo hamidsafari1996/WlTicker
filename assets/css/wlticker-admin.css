@@ -1,0 +1,53 @@
+.wlticker-repeat{
+	
+}
+.wlticker-repeat table{
+	border-collapse: collapse;
+	border-spacing: 5px;
+}
+.wlticker-repeat table td{
+	padding: 3px;
+}
+.wlticker-repeat table .add{
+	cursor: pointer;
+	background: #2ecc71;
+	color: #fff;
+	padding: 8px 17px;
+	border-radius: 5px;
+	display: inline-block;
+	margin-top: 5px;
+}
+.wlticker-repeat table .add:hover{
+	background: #27ae60
+}
+.wlticker-repeat table .row{
+	border: 1px solid #e2e2e2
+}
+.wlticker-repeat table .move i{
+	font-size: 18px
+}
+.wlticker-repeat table .remove{
+	cursor: pointer;
+	background: #e74c3c;
+	color: #fff;
+	padding: 8px 17px;
+	border-radius: 5px;
+	display: inline-block;
+	margin-top: 5px;
+}
+.wlticker-repeat table .row label{
+	width: 100%;
+	margin-top: 8px;
+	margin-bottom: 5px;
+	display: inline-block;
+}
+.wlticker-repeat table .row .wlticker-input{
+	border-radius: 3px;
+	padding: 5px;
+	width: 100%
+}
+.wlticker-repeat table .row .wlticker-textarea{
+	width: 100%;
+	border-radius: 3px;
+	height: 90px
+}
